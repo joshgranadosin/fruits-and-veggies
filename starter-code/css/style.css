@@ -1,1 +1,29 @@
 /* file for your css */
+h4{
+	display:inline;
+}
+
+h3{
+	text-align: center;
+	text-decoration: underline;
+}
+
+h1{
+	text-align: center;
+}
+
+.well{
+	text-align: center;
+}
+
+.glyphicon-arrow-right{
+	float:right;
+}
+
+.glyphicon-arrow-left{
+	float:left;
+}
+
+.red{
+	color: red;
+}
